@@ -1,2 +1,2 @@
 # self-promotion-website
- this is  ym selpf promotion website 
+ this is my  self promotion website 
